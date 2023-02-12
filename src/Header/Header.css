@@ -1,0 +1,34 @@
+header{
+    background:url(./../assits/3.jpg) center no-repeat ;
+    background-size: cover;
+    padding: 270px 0px 150px 0px;
+    height: auto;
+    
+}
+h1{
+    color: #43121d;
+    font-size: 56px;
+
+}
+p{
+    width: 85%;
+    padding-top: 20px;
+    font-size: 18px;
+    color: #555;
+}
+ 
+.bttn:hover{
+    background-color: #fff;
+    transition: .3s;
+    color: #a82c48;
+}
+.b2{
+    background-color: #fff;
+    color: black;
+    border-color: #fff;
+}
+.b2:hover{
+    border-color: rgb(168,44,72);
+    transition: .3s;
+    color: rgb(168,44,72);
+}

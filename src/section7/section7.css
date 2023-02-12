@@ -1,0 +1,28 @@
+.grop{
+    padding: 10px 20px;
+    border: none;
+}
+.wid-card{
+    
+    border-radius: 20px;
+    width:100%;
+}
+.brdr{
+    border: none;
+}
+.cntr{
+    display: block;
+    margin: 20px;
+}
+.clr{
+    color: #a82c48;
+    font-weight: 700;
+
+}
+.lin{
+    padding: 0px;
+}
+.clr span{
+    color: #555;
+    text-decoration: line-through;
+}

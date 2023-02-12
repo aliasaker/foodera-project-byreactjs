@@ -1,0 +1,26 @@
+.footer{
+    height: 130px;
+    width: 100%;
+    background-color: #a82c48;
+    text-align: center;
+}
+ul{
+    padding: 0;
+}
+.li{
+    display: inline;
+    padding: 0 10px;
+    color: #fff;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: #fff;
+}
+.foodera{
+    color: #fff;
+
+}

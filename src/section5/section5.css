@@ -1,0 +1,21 @@
+.section5{
+    background:url(./../assits/1\ \(1\).jpg) center no-repeat;
+    border-radius: 10px; 
+    background-size: cover;
+    height: 430px;
+}
+.col{
+    text-align: center;
+}
+.color{
+    color: #a82c48;
+    font-size: 40px;
+    font-weight: 500;
+}
+.a-if{
+    text-decoration: none;
+    color: #43121d;
+}
+.a-if:hover{
+    color: #a82c48;
+}

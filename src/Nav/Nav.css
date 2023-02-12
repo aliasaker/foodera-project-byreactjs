@@ -1,0 +1,33 @@
+nav{
+    background-color:white;
+    width: 100%;
+    z-index: 1;
+    box-shadow: rgb(0 0 0 / 20%) 0px 1px 8px;
+    
+}
+nav a{
+    color: #a82c48 !important;
+    font-weight: bold !important;
+    text-transform: capitalize;
+    font-size: 15px;
+    letter-spacing:1px;
+}
+.bttn{
+    width: 150px;
+    margin-right: 4%;
+    height: 52px;
+    background-color: #a82c48;
+    color: #fff !important;
+    font-weight: bold;
+    text-transform: capitalize;
+    border: 3px solid rgb(168,44,72);
+    box-shadow: unset 3px rgb(168,44,72,5%); 
+    box-sizing: border-box; 
+ } 
+.bttn:hover{
+    background-color: #fff;
+    color: #a82c48 !important;
+}
+.fx{
+    position: fixed;
+}
